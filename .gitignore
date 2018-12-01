@@ -2,5 +2,7 @@
 .project
 .settings/
 .vscode
+src/main/java/
+src/test
 bin/
 target/
